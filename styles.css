@@ -1,0 +1,67 @@
+body{
+    background-color:#4682B4;
+    background-image: linear-gradient(to bottom, skyblue 10%, darkblue 100%);
+    background-blend-mode: lighten;
+    text-align:center;
+    margin:10px;
+
+    color:white; /* color of body text, use accordingly */
+    font-size:x-large;
+
+}
+
+#section{
+}
+
+h1{
+    color:brown;
+    font-size:48px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    text-shadow:1px 1px;
+    line-height:auto;
+
+    margin-top:5px;
+}
+
+.h2{
+    color:blue;
+}
+
+#list {
+    display:block;
+    text-align:left;
+    list-style-type:none;
+    top:0;
+    font-size:large;
+}
+
+
+.center:hover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#biola{
+    color:white;
+    padding:;
+}
+
+img {
+    width: 600px;
+    height:auto;
+    margin-bottom:30px;
+    border: 4px solid green;
+    outline-color:black;
+    outline-style:double;
+}
+
+#buttons{
+    padding:25px;
+}
+
+#name{color:black;
+    padding:0;
+}
