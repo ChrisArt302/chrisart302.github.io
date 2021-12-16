@@ -1,3 +1,3 @@
 # chrisart302.github.io
-Porftfolio website and details about me
+About me page: 
 https://chrisart302.github.io/
